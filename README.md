@@ -4,10 +4,10 @@
  
    
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnsigor&show_icons=true&locale=en&layout=compact&theme=ocean_dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
-  
+
 ## Estou estudando:
   
 <div style="display: inline_block"><br>
