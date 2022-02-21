@@ -1,12 +1,8 @@
 <h1><em><strong>Hello world!</em></strong></h1>
-<p> <strong>&gtAluno do programa Jovem Programador - Senac SC </strong></p>
+<p> <strong>Aluno do programa Jovem Programador - Senac SC </strong></p>
  </br>
  
-   
-<div style="display: flex;">
-<img style="display: inline;" height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true"/>
-<img style="display: inline;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnsigor&show_icons=true&locale=en&layout=compact"/>
-</div>
+
 
 ## Estou estudando:
   
