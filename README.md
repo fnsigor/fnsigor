@@ -4,8 +4,8 @@
  
    
 <div style="display: flex;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnsigor&show_icons=true&locale=en&layout=compact"/>
+<img style="display: inline;" height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true"/>
+<img style="display: inline;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnsigor&show_icons=true&locale=en&layout=compact"/>
 </div>
 
 ## Estou estudando:
