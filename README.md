@@ -1,11 +1,11 @@
 <h1><em><strong>Hello world!</em></strong></h1>
 <p> <strong>&gtAluno do programa Jovem Programador - Senac SC </strong></p>
  </br>
-
+ 
+   
 <div align="center">
-  <a href="https://github.com/fnsigor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=7&theme=ocean_dark"
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnsigor&show_icons=true&locale=en&layout=compact&theme=ocean_dark" align = "center"/>
 </div>
   
 ## Estou estudando:
