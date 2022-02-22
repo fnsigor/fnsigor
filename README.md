@@ -2,10 +2,11 @@
 <p> <strong>Aluno do programa Jovem Programador - Senac SC </strong></p>
  </br>
  
- <div justify="center">
-        <img height="150em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" justify = "center"/>
-        <img height="150em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=fnsigor&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" justify = "center"/>
-        </div>
+ <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
 
 ## Estou estudando:
   
