@@ -1,5 +1,6 @@
 <h1><em><strong>Hello world!</em></strong></h1>
-<p> <strong>Aluno do programa Jovem Programador - Senac SC </strong></p>
+<p> <strong>&gtAtualmente sou aluno do programa Jovem Programador - Senac SC </br> &gtTambém estou estudando programação WEB coma Rocketseat</strong></p>
+
  </br>
  
  <div align="center">
