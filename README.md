@@ -20,7 +20,7 @@
 </div>
 </br>
 
-## Onde me encontrar:
+## Contato:
   
 <div> 
   <a href="https://instagram.com/fnsigor" target="_blank">
