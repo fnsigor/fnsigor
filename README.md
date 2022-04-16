@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Fernandes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fnsigor&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Aluno do programa [Rocketseat](https://www.jovemprogramador.com.br/index.php)
+- 🔥 Aluno do programa [Jovem Programador](https://www.jovemprogramador.com.br/index.php)
 
 - 🔭 Também aprendendo com a [Rocketseat](https://github.com/Rocketseat)
 
