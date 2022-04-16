@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
-<br><br>
+<br><br><br><br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
