@@ -12,7 +12,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<table align="right"><tr><td valign="top" width="30%">
+<table align="center"><tr><td valign="top" width="30%">
 ### Frontend  
 <div align="center">
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
