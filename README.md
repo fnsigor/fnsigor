@@ -11,29 +11,27 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
-<table><tr><td valign="top" width="30%">
    
-### Frontend  
+<div align="left">
    
-<div align="center">
+   ### Front-end
+   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
  </div>
-</td><td valign="top" width="30%">
 
-### Backend  
-<div align="center">
+
+<div align="left">
+   
+   ### Back-end  
+   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 </div>
 
-</td>
-
-</tr></table> 
 
 <br><br>
 
