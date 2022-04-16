@@ -22,15 +22,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
-<!--![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;-->
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
-<p align="left">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=7&theme=ocean_dark"/>
+<p align="center">
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=fnsigor&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=7&theme=ocean_dark"/>
 </p>
 
 <br><br>
