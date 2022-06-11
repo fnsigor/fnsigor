@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fnsigor/d1bdee38801cfc9a1508e3cfd6d2fbde/raw/7c96704c34a96f6ca25dd70b774c74e5a14edd32/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor Fernandes</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/IcpFUnxQ4F8tYSuE8u/giphy.gif" height="100px">, I'm Igor Fernandes</h1>
 
 - 🔥 Aluno do programa [Jovem Programador](https://www.jovemprogramador.com.br/index.php)
 
@@ -43,7 +43,7 @@
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp;Social Links
+## <img src="https://media.giphy.com/media/Wt0SVIfFlyhKp88xmi/giphy.gif" height="100"> &nbsp;Social Links
 
 <p align="left" style="background:yellow">
    <a href = "mailto:igorfernamdez@gmail.com">
@@ -56,4 +56,5 @@
     <img align="center" src="https://img.shields.io/badge/-fnsigor-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
+
 
