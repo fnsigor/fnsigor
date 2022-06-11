@@ -43,7 +43,7 @@
 
 <br>
 
-## 💻 Social Links<img src="https://media.giphy.com/media/iqa1oMEDG0wf0fgY2s/giphy.gif" height="100px">
+## 💻 &nbsp;Social Links<img src="https://media.giphy.com/media/iqa1oMEDG0wf0fgY2s/giphy.gif" height="100px">
 
 <p align="left" style="background:yellow">
    <a href = "mailto:igorfernamdez@gmail.com">
