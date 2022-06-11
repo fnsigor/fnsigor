@@ -41,7 +41,7 @@
    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnsigor&layout=compact&langs_count=7&theme=ocean_dark"/>
 </p>
 
-<br><br>
+<br>
 
 ## 💻 Social Links<img src="https://media.giphy.com/media/iqa1oMEDG0wf0fgY2s/giphy.gif" height="100px">
 
