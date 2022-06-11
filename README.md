@@ -43,13 +43,13 @@
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/Wt0SVIfFlyhKp88xmi/giphy.gif" height="100"> &nbsp;Social Links
+## 💻 Social Links<img src="https://media.giphy.com/media/iqa1oMEDG0wf0fgY2s/giphy.gif" height="100px">
 
 <p align="left" style="background:yellow">
    <a href = "mailto:igorfernamdez@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-igorfernamdez@gmail.com-05122A?style=flat&logo=gmail" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/igor-fernandes-135a011a0" target="_blank">
+  <a href="https://www.linkedin.com/in/fnsigor" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Igor Fernandes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/fnsigor" target="_blank">
