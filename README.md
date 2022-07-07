@@ -2,7 +2,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fnsigor/d1bdee38801cfc9a1508e3cfd6d2fbde/raw/7c96704c34a96f6ca25dd70b774c74e5a14edd32/githubcard.svg"/>
 <h1 align="left"><img src="https://media.giphy.com/media/IcpFUnxQ4F8tYSuE8u/giphy.gif" height="100px">, I'm Igor Fernandes</h1>
 
- - <h4>🎯 Trying to become a Frontend Developer</h4>
+ - <h4>🎯 Trying to become a Front-end Developer</h4>
  - <h4>🔥 I am currently studying with <a href="https://codar.me/input">Input<a> made by Codar.me</h4>
  
 
