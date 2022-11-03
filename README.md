@@ -2,15 +2,16 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fnsigor/d1bdee38801cfc9a1508e3cfd6d2fbde/raw/7c96704c34a96f6ca25dd70b774c74e5a14edd32/githubcard.svg"/>
 <h1 align="left"><img src="https://media.giphy.com/media/IcpFUnxQ4F8tYSuE8u/giphy.gif" height="100px">, I'm Igor Fernandes</h1>
 
- - <h4>🎯 Trying to become a Front-end Developer</h4>
- - <h4>🔥 I am currently studying with <a href="https://codar.me/input">Input<a> made by Codar.me</h4>
+ - <h4>🎯 My current goal is to become a front ent developer</h4>
+ - <h4>🔥 I'm what people call self-taught. I study through online courses and youtube videos</h4>
+ - <h4>📚 I recently started studying React</ht>
  
 
 <br><br>
 
 ## 🛠 &nbsp;Techs
    
-<div align="left">
+  <div align="left">
    
    ### Current stack
    
@@ -18,6 +19,7 @@
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
  </div>
 
 
@@ -27,6 +29,20 @@
    
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />      
+</div>
+
+<div align="left">
+   
+   ### interests
+   
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />   
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </div>
 
 
