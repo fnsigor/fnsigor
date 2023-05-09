@@ -4,7 +4,8 @@
 
  - <h4>🎯 My current goal is to become a front ent developer</h4>
  - <h4>🔥 I'm what people call self-taught. I study through online courses and youtube videos</h4>
- - <h4>📚 I recently started studying React</ht>
+ - <h4>🧐 Sometimes I use Google translator to write readme files</h4>
+ - <h4>❤ One Piece fan</ht>
  
 
 <br><br>
