@@ -21,6 +21,7 @@
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+ <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
  </div>
 
 
@@ -37,9 +38,7 @@
 <div align="left">
    
    ### Interests
-   
- 
-   <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+  
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
    <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
