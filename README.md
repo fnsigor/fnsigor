@@ -2,7 +2,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fnsigor/d1bdee38801cfc9a1508e3cfd6d2fbde/raw/7c96704c34a96f6ca25dd70b774c74e5a14edd32/githubcard.svg"/>
 <h1 align="left"><img src="https://media.giphy.com/media/IcpFUnxQ4F8tYSuE8u/giphy.gif" height="100px">, I'm Igor Fernandes</h1>
 
- - <h4>🎯 Today i am a Fullstack developer</h4>
+ - <h4>🎯 Today i am a Front-end developer</h4>
  - <h4>🧐 Sometimes I use Google translator to write readme files</h4>
  - <h4>❤ One Piece fan</ht>
  
